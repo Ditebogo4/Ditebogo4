@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😀;+I'm+Faith+Mahlape!⌨️⭐💻+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-
+<img src= "https://www.google.com/imgres?q=animated%20coding%20gif%20girl&imgurl=https%3A%2F%2Fwww.freelancers-journey.com%2Fimages%2Fblog-images%2Fgetting-your-first-freelance-client.png&imgrefurl=https%3A%2F%2Fwww.freelancers-journey.com%2Fblog%2Fgetting-your-first-freelance-client&docid=hf7oYWhwgqGGTM&tbnid=2Vk-BX6tJbm9SM&vet=12ahUKEwi2wO7kqpyHAxUca0EAHTmpD0U4ChAzegQISBAA..i&w=1440&h=800&hcb=2&ved=2ahUKEwi2wO7kqpyHAxUca0EAHTmpD0U4ChAzegQISBAA"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Faith Mahlape) 
 
