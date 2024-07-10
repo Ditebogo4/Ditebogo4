@@ -2,7 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😀;+I'm+Faith+Mahlape!⌨️⭐💻+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-<img src = "https://github.com/Ditebogo4/Ditebogo4/assets/124582208/b8b3ad86-2bc6-4ee8-a666-f2744735dabb" align="right" width = "200"/>
+<img src = "https://github.com/Ditebogo4/Ditebogo4/assets/124582208/6cad2d25-1e11-4cbf-8797-08d91973f3c0" align = "right" width = "200"  />
+
 
 
 ## 🌐 Socials:
