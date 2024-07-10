@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😀;+I'm+Faith+Mahlape!⌨️⭐💻+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-<img src = "https://github.com/Ditebogo4/Ditebogo4/assets/124582208/6cad2d25-1e11-4cbf-8797-08d91973f3c0" align = "right" width = "200"  />
+<img src = "https://github.com/Ditebogo4/Ditebogo4/assets/124582208/6cad2d25-1e11-4cbf-8797-08d91973f3c0" alt = "PROGRAMMING" align = "right" width = "240"  />
 
 # 💫 About Me:
 🔭 I’m currently working on Ecommerce website<br>👯 I’m looking to collaborate on with other developer to create more websites and learn more skills<br>🌱 I’m currently learning Automation<br>💬 Ask me about Tech <br>⚡ Fun fact is Never be scared of the nosey ones , they may know nothing
