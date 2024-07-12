@@ -5,7 +5,7 @@
 <img src = "https://github.com/Ditebogo4/Ditebogo4/assets/124582208/6cad2d25-1e11-4cbf-8797-08d91973f3c0" alt = "PROGRAMMING" align = "right" width = "240"  />
 
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce website<br>👯 I’m looking to collaborate on with other developer to create more websites and learn more skills<br>🌱 I’m currently learning Automation<br>👯 Reach Me at mahlapepheaha@gmail.com or 078-268-1438<br>💬 Ask me about Tech <br>⚡ Fun fact is Never be scared of the nosey ones , they may know nothing
+🔭 I’m currently working on Ecommerce website<br>👯 I’m looking to collaborate on with other developer to create more websites and learn more skills<br>🌱 I’m currently learning Automation<br>📫 Reach Me at mahlapepheaha@gmail.com or 078-268-1438<br>💬 Ask me about Tech <br>⚡ Fun fact is Never be scared of the nosey ones , they may know nothing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FaithMahlape) 
